@@ -8,7 +8,7 @@ I'm a fullstack web developer that specializes in typescript based react via Nex
 
 * 🌍  I'm based in Brooklyn, NY
 * ✉️  You can contact me at [wtgolden5@gmail.com](mailto:wtgolden5@gmail.com)
-* 🧠  I'm learning Deno Fresh
+* 🧠  I'm learning Deno Fresh and Haskell
 * 🤝  I'm open to collaborating on fintech and medtech web applications
 * ⚡  I spent my mid twenties playing poker (no limit hold'em cash games) for a living.
 
