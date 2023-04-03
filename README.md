@@ -4,7 +4,7 @@ Hi 👋 My name is Will Golden
 Full-stack Web Developer
 ------------------------
 
-I'm a fullstack web developer that specializes in typescript based react via Next.js. I'm currently working as Principal Frontend Engineer at Suture Health where I also manage all frontend operations.
+I'm a fullstack web developer that specializes in typescript based react via Next.js. I'm currently working as Principal Frontend Engineer at Suture Health where I also manage all frontend operations. I also developed <a href='https://www.flightplan.tech/'>Flight Plan</a>. Flight Plan is an application that allows licensed pilots to reduce the cost of building flight hours by half.
 
 * 🌍  I'm based in Brooklyn, NY
 * ✉️  You can contact me at [wtgolden5@gmail.com](mailto:wtgolden5@gmail.com)
