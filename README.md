@@ -4,11 +4,11 @@ Hi 👋 My name is Will Golden
 Full-stack Web Developer
 ------------------------
 
-I'm a fullstack web developer that specializes in typescript based react via Next.js. I'm currently working as Principal Frontend Engineer at Suture Health where I also manage all frontend operations. I also developed <a href='https://www.flightplan.tech/'>Flight Plan</a>. Flight Plan empowers licensed pilots with the ability to reduce the cost of building flight hours by half.
+I'm a fullstack web developer that specializes in front-end development. I'm currently working as Director of Engineering at Suture Health where I work with teams around the world to build products that give physicians and their staff more time with their patients. I also developed <a href='https://www.flightplan.tech/'>Flight Plan</a> and <a href='https://www.blackboxquant.com/'>Blackbox</a>. Flight Plan empowers licensed pilots with the ability to reduce the cost of building flight hours by half. Blackbox is a trading strategy execution platform that allows users to create / fund a brokerage account and trade specific algorithmic strategies without needing to commingle funds with other investors.
 
 * 🌍  I'm based in Park Slope Brooklyn, NY
 * ✉️  You can contact me at [wtgolden5@gmail.com](mailto:wtgolden5@gmail.com)
-* 🧠  I'm learning Deno Fresh and Haskell
+* 🧠  I'm learning Golang and Haskell
 * 🤝  I'm open to collaborating on fintech and healthtech web applications
 * ⚡  I spent my mid twenties playing poker (no limit hold'em cash games) for a living.
 
